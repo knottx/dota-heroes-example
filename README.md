@@ -17,9 +17,9 @@ PrimarySwatch
 
 Content
 
-- Primary `Colors.white`
-- Secondary `Colors.white54`
-- Tertiary `Colors.white12`
+- Primary `#FFFFFF`
+- Secondary `#9B9B9B`
+- Tertiary `#454545`
 
 ## Splash
 
