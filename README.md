@@ -55,6 +55,7 @@ Content
     - AspectRatio `16.0 / 9.0`
     - Shadow `Colors.black54` with `Offset(0,2)`
     - Show Favorite Icon `CupertinoIcons.heart_fill` with **Content Primary Color** if already added to favorites
+    - Name Container gradient from **Top** `Colors.transparent` to **Bottom** `Colors.black87`
       
 ## Dota Hero Detail
 
